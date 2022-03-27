@@ -1,0 +1,19 @@
+
+.one{
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#two {
+    font-size: 36px;
+    color: blue;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.three {
+    font-size: 36px;
+}
+#two.bubu {
+    background-color: lightgreen;
+    font-size: 24px;
+    color: black;
+    font-weight: bold;
+}
